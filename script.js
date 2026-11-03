@@ -1,5 +1,10 @@
 //your JS code here. If required.
 
+ const element = document.getElementById("level")
+
+    let count = 0
+    let currentElement = element
+
 		
     while(currentElement){
         count++
